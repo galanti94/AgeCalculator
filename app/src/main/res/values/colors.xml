@@ -8,6 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="Snow">#FFFBFF</color>
-    <color name="BG">#0096c7</color>
+    <color name="BG">#023e8a</color>
+    <color name="Blue">#00b4d8</color>
+
+    <color name="BTN_TEXT">#FFFBFF</color>
+    <color name="BTN_BG">#00b4d8</color>
+
 
 </resources>
